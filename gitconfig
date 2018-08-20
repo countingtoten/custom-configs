@@ -1,0 +1,18 @@
+[color]
+  ui = true
+  branch = true
+  diff = true
+  interactive = true
+  status = true
+[color "status"]
+  added = green
+  changed = red
+  deleted = red
+  untracked = yellow
+[user]
+  email = countingtoten@gmail.com
+  name = Jim Weinert
+  signingkey = 2D89F432787DCEE1
+[commit]
+  default = matching
+  gpgsign = true
